@@ -15,7 +15,6 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "FREE STANDARD SHIPPING & RETURNS | JOIN NOW",
               "color_scheme": "inverse",
