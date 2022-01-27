@@ -2,10 +2,15 @@
   display: flex;
   position: relative;
   flex-direction: column;
+  height: calc(100vh - 11.5rem);
 }
 
 .banner__box {
   text-align: center;
+}
+
+.banner__content .banner__box {
+  background-color: rgba(0,0,0,0);
 }
 
 @media only screen and (max-width: 749px) {
