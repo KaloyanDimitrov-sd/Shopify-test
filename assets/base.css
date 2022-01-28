@@ -650,6 +650,12 @@ hr {
   display: block;
 }
 
+.card-wrapper .full-unstyled-link {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
 .placeholder {
   background-color: rgba(var(--color-foreground), 0.04);
   color: rgba(var(--color-foreground), 0.55);
