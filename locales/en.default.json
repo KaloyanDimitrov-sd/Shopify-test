@@ -410,7 +410,14 @@
       "copy_code": "Copy code",
       "expired": "Expired",
       "copy_code_success": "Code copied successfully",
-      "print_gift_card": "Print"
+      "print_gift_card": "Print",
+      "test": "Gosho"
+    }
+  },
+  "test": {
+    "test1": {
+      "title": "asdw",
+      "name": "Pesho"
     }
   }
 }
